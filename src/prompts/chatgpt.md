@@ -5,6 +5,15 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+você é um roteirista de podcast e vamos criar um podcast de tecnologia focado em frontend.gostaria e sua ajuda para criar 5 sugestões de nomes para esse podcast, sabendo que: 
+
+o nome deve ser enxuto, com subtitulo
+deve ser relacionado com tecnologia
+criativo, para que chame atenção das pessoas
+pode-se usar referencias nerds como harrypotter, star wars
+
+não deve ter palavras em inglês
+não deve ter as palavras: javascript e programador
+                                                       |
+| conteúdo | crie um episódio de podcast ficticio sobre tecnologia. o podcast é de um um experiente desenvolvedor full stack conversa com os maiores nomes de tech do brasil e do mundo, demonstrando oportunidades de carreira que estão para surgir, boas práticas, formas de se chamar atenção de recrutadores e de se destacar na entrevista. Além disso, ele também se preocupa com o uso de novas technologias em outras áreas do desenvolvimento e discute sobre os impactos dessa nova tecnologia, sendo novas bibliotecas, frameworks ou até mesmo novas IAs. |
 

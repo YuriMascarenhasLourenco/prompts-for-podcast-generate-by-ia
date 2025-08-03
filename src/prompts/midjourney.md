@@ -1,0 +1,3 @@
+Midjourney:
+
+|Ele é asiático, gosta de super heróis, desafios, jogos de tabuleiro e de jogos clássicos como super mário bros, zelda e resident evil e coleciona esses bonecos no seu estúdio. ele gosta de musica e toca alguns instrumentos, além de ter duas tatuagens em cada antebraço. É um cara sorridente e carismático que facilmente consegue puxar assunto com facilidade. super experiente no mercado de desenvolvimento. mais de 10 anos de experiência|

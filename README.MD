@@ -73,10 +73,10 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbsp Yuri Lourenço<br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/felipeAguiarCode">
+        href="https://github.com/YuriLourenco">
         GitHub
     </a>
     &nbsp;|&nbsp;
@@ -85,15 +85,8 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
         LinkedIn
     </a>
     &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
+   
     &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
